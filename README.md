@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohana Ranga Talari
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talarimohana/)
-[![Email](https://img.shields.io/badge/Email-your.email%40example.com-red?logo=gmail&logoColor=white)](mohanranga7290@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mohanranga7290@gmail.com-red?logo=gmail&logoColor=white)](mohanranga7290@gmail.com)
 
 
 ---
