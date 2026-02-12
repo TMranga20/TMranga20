@@ -1,52 +1,36 @@
-# 👋 Welcome to My Profile
+# 👋 Hi, I'm Mohana Ranga Talari
 
-## About Me
-Passionate developer and tech enthusiast with a strong focus on creating impactful solutions. I'm dedicated to continuous learning and collaboration with talented professionals in the tech community.
-
----
-
-## 💼 Professional Experience
-- **Software Developer** | Focused on building scalable applications
-- **Problem Solver** | Experienced in debugging and optimization
-- **Team Player** | Strong communication and collaboration skills
+Experienced Software Test Engineer specializing in Manual & Automation Testing, API Testing, and Data Visualization with Tableau. I build reliable test strategies, automate test suites, and turn data into actionable insights.
 
 ---
 
-## 🎓 Skills & Expertise
-- **Programming Languages**: JavaScript, Python, Java, C++
-- **Web Development**: React, Node.js, Full-stack development
-- **Database Management**: SQL, MongoDB
-- **Tools & Platforms**: Git, GitHub, Docker, AWS
-- **Soft Skills**: Leadership, Communication, Project Management
+## Core Expertise
+- Manual Testing & Test Planning
+- Automation Testing (Selenium, Cypress, or similar)
+- API Testing (Postman, REST API validation)
+- Data Visualization: Tableau
+- Frontend basics: HTML & CSS
+- Test reporting, bug tracking & quality assurance processes
 
 ---
 
-## 🌱 Currently Learning
-- Advanced system design patterns
-- Cloud architecture and DevOps practices
-- Machine learning fundamentals
+## Current Focus
+Improving test automation coverage, designing maintainable test frameworks, and delivering high-quality, production-ready software.
 
 ---
 
-## 🔭 What I'm Working On
-Open to exciting opportunities in software development, startup ventures, and innovative projects that make a difference.
+## Tools & Technologies
+Postman • Selenium/Cypress • JIRA • Git • Tableau • HTML • CSS • CI/CD (GitHub Actions)
 
 ---
 
-## 🤝 Let's Connect
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com)
-- 🐦 **Twitter**: [@yourhandle](https://twitter.com)
-- 🌐 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
+## Contact
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)
+- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ---
 
-## ⚡ Fun Facts
-- 🚀 I love building things from scratch
-- 🎯 Always seeking to learn new technologies
-- 💡 Open to collaborations and discussions
-- 🎮 Passionate about both code and gaming
+Simple, professional, and focused on testing excellence. Feel free to ask me about my test frameworks, automation approach, or Tableau dashboards.
 
----
-
-*Feel free to explore my repositories and don't hesitate to reach out for collaboration!* 🙌
+*Updated on 2026-02-12.*
