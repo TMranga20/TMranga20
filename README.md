@@ -7,7 +7,7 @@
 ---
 
 ### Software Test Engineer
-Manual & Automation Testing | API Testing | Tableau | HTML & CSS
+Automation & Manual Testing | API Testing | Tableau | HTML & CSS
 
 ---
 
@@ -28,13 +28,13 @@ I design and execute practical test strategies, build reliable automation suites
 
 ## Tools & Technologies
 
+[![Selenium](https://img.shields.io/badge/Selenium-Automation-green?logo=selenium&logoColor=white)](https://www.selenium.dev)
+[![Jira](https://img.shields.io/badge/Tool-Jira-blue?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Postman](https://img.shields.io/badge/Postman-API-orange?logo=postman&logoColor=white)](https://www.postman.com) 
-[![Selenium](https://img.shields.io/badge/Selenium-Automation-green?logo=selenium&logoColor=white)](https://www.selenium.dev) 
 [![Cypress](https://img.shields.io/badge/Cypress-E2E-4BC0C0?logo=cypress&logoColor=white)](https://www.cypress.io) 
 [![Tableau](https://img.shields.io/badge/Tableau-Visualization-blue?logo=tableau&logoColor=white)](https://www.tableau.com) 
 [![HTML5](https://img.shields.io/badge/HTML5-%3E-orange?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![CSS3](https://img.shields.io/badge/CSS3-%3E-blue?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Jira](https://img.shields.io/badge/Tool-Jira-blue?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
 ---
 
