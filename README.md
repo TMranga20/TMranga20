@@ -11,21 +11,6 @@ Automation & Manual Testing | API Testing | Tableau | HTML & CSS
 
 ---
 
-## About
-I design and execute practical test strategies, build reliable automation suites, validate APIs, and create clear data visualizations. clear reporting, and continuous improvement.
-
----
-
-## Core Expertise
-- Manual Testing & Test Planning  
-- Automation Testing (Selenium, or equivalent)  
-- API Testing (Postman, REST API validation)  
-- Data Visualization with Tableau  
-- Frontend basics: HTML & CSS  
-- Test reporting, bug tracking & QA processes
-
----
-
 ## Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -41,6 +26,22 @@ I design and execute practical test strategies, build reliable automation suites
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
 
 ---
+
+## About
+I design and execute practical test strategies, build reliable automation suites, validate APIs, and create clear data visualizations. clear reporting, and continuous improvement.
+
+---
+
+## Core Expertise
+- Manual Testing & Test Planning  
+- Automation Testing (Selenium, or equivalent)  
+- API Testing (Postman, REST API validation)  
+- Data Visualization with Tableau  
+- Frontend basics: HTML & CSS  
+- Test reporting, bug tracking & QA processes
+
+---
+
 
 ## Projects
 - [Test Automation Framework](https://github.com/TMranga20/Automationproject_selenium)  
