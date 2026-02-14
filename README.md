@@ -28,13 +28,17 @@ I design and execute practical test strategies, build reliable automation suites
 
 ## Tools & Technologies
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
 [![Selenium](https://img.shields.io/badge/Selenium-Automation-green?logo=selenium&logoColor=white)](https://www.selenium.dev)
-[![Jira](https://img.shields.io/badge/Tool-Jira-blue?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+![API Automation](https://img.shields.io/badge/API-Automation-red)
 [![Postman](https://img.shields.io/badge/Postman-API-orange?logo=postman&logoColor=white)](https://www.postman.com) 
 [![Cypress](https://img.shields.io/badge/Cypress-E2E-4BC0C0?logo=cypress&logoColor=white)](https://www.cypress.io) 
+[![Jira](https://img.shields.io/badge/Tool-Jira-blue?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Tableau](https://img.shields.io/badge/Tableau-Visualization-blue?logo=tableau&logoColor=white)](https://www.tableau.com) 
 [![HTML5](https://img.shields.io/badge/HTML5-%3E-orange?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![CSS3](https://img.shields.io/badge/CSS3-%3E-blue?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
 
 ---
 
